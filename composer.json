@@ -1,0 +1,7 @@
+{
+    "name": "rnelson/concert-plugin",
+    "type": "october-plugin",
+    "description": "Create a concerts plugin for scheduling concerts and for storing venues for the concerts. Plus a map for venue locations",
+    "require": {
+        "composer/installers": "~1.0"
+    }
